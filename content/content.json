@@ -1,0 +1,6 @@
+{
+  "width": "800px",
+  "height": "600px",
+  "minWidth": "400px",
+  "source": "showdown/example/showdown-gui.html"
+}
