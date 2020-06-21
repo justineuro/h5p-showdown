@@ -1,0 +1,13 @@
+{
+  "title": "H5P Showdown",
+  "language": "en",
+  "mainLibrary": "H5P.IFrameEmbed",
+  "embedTypes":["div"],
+  "author": "justineleonu@gmail.com",
+  "preloadedDependencies": [{
+    "machineName":"H5P.IFrameEmbed",
+    "majorVersion":"1",
+    "minorVersion":"0"
+  }],
+  "license": "cc-by"
+}
