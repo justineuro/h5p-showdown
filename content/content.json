@@ -1,6 +1,1 @@
-{
-  "width": "800px",
-  "height": "600px",
-  "minWidth": "400px",
-  "source": "showdown/example/showdown-gui.html"
-}
+{"width":"500px","height":"300px","minWidth":"400px","source":"example/index.xml","resizeSupported":true}
